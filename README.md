@@ -1,5 +1,5 @@
 # first
 This is my new git. <br>
-Author- Shalini Budholiya
+Author- Shalini Budholiya <br>
 College- RJIT
 
